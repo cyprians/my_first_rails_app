@@ -13,7 +13,7 @@ group :development, :test do
  group :production do
    gem 'pg'
  end
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 4.3'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
